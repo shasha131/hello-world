@@ -1,6 +1,6 @@
 # hello-world
 test and learn 
 
-Adding some content to the readme file. This is to test and learn the popular version control tool Github. 
+initial readme file. 
 
 Sha Sha 
